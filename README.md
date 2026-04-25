@@ -110,4 +110,4 @@ Bug reports, typo fixes, and suggestions are welcome — please open an issue or
 - BOJ: [dohoon](https://acmicpc.net/profile/dohoon)
 - Codeforces: [go_onin](https://codeforces.com/profile/go_onin)
 
-For any inquiries, please [open an issue](./issues).
+For any inquiries, please [open an issue](../../issues).
