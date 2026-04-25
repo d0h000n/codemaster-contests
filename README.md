@@ -2,6 +2,8 @@
 
 Archive of the **Songdo High School Codemaster (송도고 코드마스터)** programming contest series — a programming contest for middle and high school students, organized and directed by **Dohoon Kim (김도훈)**.
 
+![Codemaster 2023 · Songdo HS, Incheon](2023_onsite_photo.jpg)
+
 ## Table of Contents
 
 - [About](#about)
