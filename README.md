@@ -70,7 +70,7 @@ A few highlights from the contest series:
 - Several middle schoolers who first encountered Codemaster through its **BOJ Open Contest** mirror in the 1st or 2nd edition went on to enroll at Songdo High School, where they continue to study competitive programming actively.
 
 ## Related Repositories
-Other algorithm problems I have authored — for university-level contests, online judge events, and other settings outside the Codemaster series — are archived at [**authored-problems**](https://github.com/dohoonkim/authored-problems).
+Other algorithm problems I have authored — for university-level contests, online judge events, and other settings outside the Codemaster series — are archived at [**authored-problems**](https://github.com/d0h000n/authored-problems).
  
 ## Usage Policy
  
